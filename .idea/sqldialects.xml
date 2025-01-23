@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/hw10/hw10/hw10.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/hw_solution10/sol-hw10/hw10.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/lab12/lab12/lab12.sql" dialect="SQLite" />
+  </component>
+</project>
